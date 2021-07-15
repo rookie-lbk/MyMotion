@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyGame.MyMotion", "CenturyGame.MyMotion.csproj", "{14CAC9A3-6E66-C630-9A4D-5169FA04A8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyGame.MyMotion.Editor", "CenturyGame.MyMotion.Editor.csproj", "{C322FD14-F7C8-10C1-2A80-3672BE386354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CAC9A3-6E66-C630-9A4D-5169FA04A8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CAC9A3-6E66-C630-9A4D-5169FA04A8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CAC9A3-6E66-C630-9A4D-5169FA04A8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CAC9A3-6E66-C630-9A4D-5169FA04A8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C322FD14-F7C8-10C1-2A80-3672BE386354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C322FD14-F7C8-10C1-2A80-3672BE386354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C322FD14-F7C8-10C1-2A80-3672BE386354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C322FD14-F7C8-10C1-2A80-3672BE386354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
