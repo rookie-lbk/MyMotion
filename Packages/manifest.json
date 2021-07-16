@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.centurygame.myrotate": "https://github.com/ShallowSingFuture/UnityPackageManager.git#1.0.3",
+    "com.centurygame.myrotate": "https://github.com/ShallowSingFuture/MyRotate.git#1.0.6",
     "com.unity.collab-proxy": "1.2.15",
     "com.unity.package-manager-ui": "2.0.8",
     "com.unity.textmeshpro": "1.4.1",
@@ -37,8 +37,8 @@
   },
   "lock": {
     "com.centurygame.myrotate": {
-      "revision": "1.0.3",
-      "hash": "96e7bdb4594fd3735cdec28a4fa74e5517158c88"
+      "revision": "1.0.6",
+      "hash": "05a94a32ceddb3b1fc305de9bd506f0989befa4c"
     }
   }
 }
