@@ -6,6 +6,6 @@
     "description": "",
     "license": "MIT",
     "dependencies": {
-        "com.centurygame.myrotate": "https://github.com/ShallowSingFuture/UnityPackageManager.git#1.0.3",
+        "com.centurygame.myrotate": "https://github.com/ShallowSingFuture/UnityPackageManager.git#1.0.3"
     }
 }
